@@ -73,7 +73,7 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![robo](./img/robo.jpeg)
 
 ## MobileRobot Movement Video:
 
