@@ -78,7 +78,7 @@ if __name__ == '__main__':
 ## MobileRobot Movement Video:
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vNZfHa5hfRo.jpg)](https://www.youtube.com/watch?v=vNZfHa5hfRo)
+[![img/robo.jpeg](https://img.youtube.com/vi/vNZfHa5hfRo.jpg)](https://www.youtube.com/watch?v=vNZfHa5hfRo)
 
 
 ## Result:
