@@ -75,10 +75,13 @@ if __name__ == '__main__':
 
 ![Output](img/robo.jpeg)
 
+![Output](img/robo1.jpeg)
+
+![Output](img/robo2.jpeg)
 ## MobileRobot Movement Video:
 
 
-[![img/robo.jpeg](https://img.youtube.com/vi/vNZfHa5hfRo.jpg)](https://www.youtube.com/watch?v=vNZfHa5hfRo)
+[![img alt text here](https://img.youtube.com/vi/vNZfHa5hfRo/0.jpg)](https://www.youtube.com/watch?v=vNZfHa5hfRo)
 
 
 ## Result:
